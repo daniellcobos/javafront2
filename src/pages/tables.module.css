@@ -1,0 +1,16 @@
+.tables{
+    
+    margin: auto;
+border-collapse: collapse;
+width: 50%;
+}
+.tables tr{
+    border: solid 3px black;
+}
+.main{
+    margin: auto;
+    padding-top: 1rem;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
